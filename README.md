@@ -22,7 +22,7 @@ This is a simple Student Management Web Application built with **Spring Boot**, 
 - **Eclipse IDE** – IDEs used for development, debugging, and project management.
  
 ## Features
-- **Create** – Add new student records.
+- **Create** – Add new student records such as firstname, lastname, student email.
 - **Read** – Display all student details in a structured table.
 - **Update** – Modify existing student information.
 - **Delete** – Remove student records.
