@@ -3,50 +3,46 @@
 This is simple Student Management Web Application built with Spring Boot, implementing CRUD functionality to efficiently manage student data. This project demonstrates clean architecture using Spring MVC, Spring Data JPA (Hibernate), MySQL, and Thymeleaf for server-side rendering.
 
 # Technologies Used
-
 # Backend
 
 Java
-Used as the primary programming language to build the application logic, handle business operations, and implement object-oriented design principles.
+• Used to write the core application logic and implement backend functionality.
 
 Spring Boot
-Provides a powerful and easy-to-configure framework for building production-ready web applications. It simplifies dependency management and speeds up development.
+• Simplifies application setup and provides a production-ready environment with minimal configuration.
 
 Spring MVC
-Implements the Model–View–Controller architecture, helping structure the application cleanly by separating business logic, routing, and presentation.
+• Implements the Model–View–Controller architecture for routing, request handling, and linking backend with frontend.
 
 Spring Data JPA (Hibernate)
-Used for ORM (Object Relational Mapping) to interact with the MySQL database. Simplifies CRUD operations and reduces boilerplate code with repositories.
+• Provides ORM support, making database CRUD operations easier and reducing boilerplate code.
 
-#Frontend
-Thymeleaf:
+Frontend
 
-Server-side template engine used to dynamically render HTML pages based on backend data, enabling seamless integration with Spring MVC.
+Thymeleaf
+• Server-side template engine used to generate dynamic and data-driven HTML pages.
 
 HTML
-
-Used to structure the content and layout of the web pages.
+• Structures the layout and content of the web pages.
 
 CSS
-
-Applied styling to the web pages to control design, spacing, colors, and responsiveness.
+• Adds styling, spacing, alignment, and visual design to the UI.
 
 Bootstrap
-
-Used for responsive and modern UI components, ensuring the layout looks clean on all screen sizes.
+• Offers responsive UI components to create modern and mobile-friendly layouts.
 
 Database
-MySQL:
 
-Relational database used to store and manage student information persistently. Works seamlessly with Spring Data JPA for data access.
+MySQL
+• Relational database used for storing and managing student data.
 
-Build & Tools
+Build & Developer Tools
+
 Maven
+• Manages dependencies, handles the build lifecycle, and packages the application.
 
-Build automation tool used to manage project dependencies, build lifecycle, and packaging of the Spring Boot application.
+IntelliJ IDEA / VS Code
+• Used as development environments for writing, debugging, and managing the project.
 
-Eclipse IDE
-
-Development environments used for writing, debugging, and managing the project efficiently.
 
 
