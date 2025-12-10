@@ -5,43 +5,42 @@ This is simple Student Management Web Application built with Spring Boot, implem
 # Technologies Used
 # Backend
 
-Java
+ #Java
+ 
 • Used to write the core application logic and implement backend functionality.
 
-Spring Boot
+# Spring Boot
+
 • Simplifies application setup and provides a production-ready environment with minimal configuration.
 
-Spring MVC
+# Spring MVC
+
 • Implements the Model–View–Controller architecture for routing, request handling, and linking backend with frontend.
 
-Spring Data JPA (Hibernate)
+# Spring Data JPA (Hibernate)
+
 • Provides ORM support, making database CRUD operations easier and reducing boilerplate code.
 
-Frontend
+# Frontend
 
-Thymeleaf
+# Thymeleaf
 • Server-side template engine used to generate dynamic and data-driven HTML pages.
 
-HTML
-• Structures the layout and content of the web pages.
-
-CSS
-• Adds styling, spacing, alignment, and visual design to the UI.
-
-Bootstrap
+# Bootstrap
 • Offers responsive UI components to create modern and mobile-friendly layouts.
 
-Database
+# Database
 
-MySQL
+# MySQL
+
 • Relational database used for storing and managing student data.
 
-Build & Developer Tools
+# Build & Developer Tools
 
-Maven
+# Maven
 • Manages dependencies, handles the build lifecycle, and packages the application.
 
-IntelliJ IDEA / VS Code
+# Eclipse IDE
 • Used as development environments for writing, debugging, and managing the project.
 
 
