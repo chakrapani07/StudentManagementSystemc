@@ -3,7 +3,7 @@
 This is a simple Student Management Web Application built with *Spring Boot*, implementing CRUD functionality to efficiently manage student data.  
 The project demonstrates clean architecture using *Spring MVC, **Spring Data JPA (Hibernate), **MySQL, and **Thymeleaf* for server-side rendering.
 
-## 🚀 Technologies Used
+## Technologies Used
 
 ### *Backend*
 - *Java* – Used to write the application logic.
@@ -18,15 +18,13 @@ The project demonstrates clean architecture using *Spring MVC, **Spring Data JPA
 ### *Database*
 - *MySQL* – Relational database used to store and manage student records.
 
----
 
-## 🔧 Build & Developer Tools
+## Build & Developer Tools
 - *Maven* – Used for dependency management and building the application.
 - *Eclipse / IntelliJ IDEA* – IDEs used for development, debugging, and project management.
 
----
 
-## 📌 Features
+## Features
 - *Create* – Add new student records.
 - *Read* – Display all student details in a structured table.
 - *Update* – Modify existing student information.
