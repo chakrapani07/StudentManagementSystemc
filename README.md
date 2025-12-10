@@ -1,7 +1,6 @@
 # Student Management System
 
-This is a simple Student Management Web Application built with *Spring Boot*, implementing CRUD functionality to efficiently manage student data.  
-The project demonstrates clean architecture using *Spring MVC, **Spring Data JPA (Hibernate), **MySQL, and **Thymeleaf* for server-side rendering.
+This is a simple Student Management Web Application built with **Spring Boot**, implementing CRUD functionality to efficiently manage student data.The project demonstrates clean architecture using **Spring MVC**, **Spring Data JPA (Hibernate)**, **MySQL**, and **Thymeleaf** for server-side rendering.
 
 ## Technologies Used
 
