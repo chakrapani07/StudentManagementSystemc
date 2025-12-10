@@ -21,7 +21,7 @@ The project demonstrates clean architecture using *Spring MVC, **Spring Data JPA
 ## Build & Developer Tools
 - **Maven** – Used for dependency management and building the application.
 - **Eclipse IDE** – IDEs used for development, debugging, and project management.
-- 
+ 
 ## Features
 - **Create** – Add new student records.
 - **Read** – Display all student details in a structured table.
