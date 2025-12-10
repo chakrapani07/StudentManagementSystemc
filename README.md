@@ -4,7 +4,7 @@ This is simple Student Management Web Application built with Spring Boot, implem
 
 #Technologies Used
 
-Backend
+&Backend
 Java
 
 Used as the primary programming language to build the application logic, handle business operations, and implement object-oriented design principles.
