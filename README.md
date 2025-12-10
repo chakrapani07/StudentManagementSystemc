@@ -3,45 +3,33 @@
 This is simple Student Management Web Application built with Spring Boot, implementing CRUD functionality to efficiently manage student data. This project demonstrates clean architecture using Spring MVC, Spring Data JPA (Hibernate), MySQL, and Thymeleaf for server-side rendering.
 
 # Technologies Used
-# Backend
+# • Backend
+   # – Java
+     • Used to write the core application logic and implement backend functionality.
 
- #Java
- 
-• Used to write the core application logic and implement backend functionality.
+ #   – Spring Boot
+     • Simplifies application setup and provides a production-ready environment with minimal configuration.
 
-# Spring Boot
+  # – Spring MVC
+     • Implements the MVC architecture for routing, request handling, and connecting backend with frontend.
 
-• Simplifies application setup and provides a production-ready environment with minimal configuration.
+  # – Spring Data JPA (Hibernate)
+     • Provides ORM support and simplifies CRUD operations with minimal boilerplate code.
 
-# Spring MVC
+# • Frontend
+ #  – Thymeleaf
+     • Server-side template engine for generating dynamic HTML pages.
+     
+  # – Bootstrap
+     • Offers responsive, modern UI components for mobile-friendly layouts.
 
-• Implements the Model–View–Controller architecture for routing, request handling, and linking backend with frontend.
+# • Database
+  # – MySQL
+     • Relational database used to store and manage student records.
 
-# Spring Data JPA (Hibernate)
+# • Build & Developer Tools
+  # – Maven
+     • Used for dependency management and building the application.
 
-• Provides ORM support, making database CRUD operations easier and reducing boilerplate code.
-
-# Frontend
-
-# Thymeleaf
-• Server-side template engine used to generate dynamic and data-driven HTML pages.
-
-# Bootstrap
-• Offers responsive UI components to create modern and mobile-friendly layouts.
-
-# Database
-
-# MySQL
-
-• Relational database used for storing and managing student data.
-
-# Build & Developer Tools
-
-# Maven
-• Manages dependencies, handles the build lifecycle, and packages the application.
-
-# Eclipse IDE
-• Used as development environments for writing, debugging, and managing the project.
-
-
-
+  # – Eclipse IDE
+     • IDEs used for writing, debugging, and managing the project efficiently.
